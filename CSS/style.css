@@ -1,0 +1,62 @@
+.inline {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+}
+/* Nav */
+#nav {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    margin: 0;
+    padding: 0;
+  }
+  #bottomnav {
+    position: relative;
+    bottom: 0px;
+    left: 0px;
+    margin-left: 3%;
+    padding: 0;
+  }
+  #nav li {
+    display: inline-block;
+    font-size: 24px;
+    margin-right: 40px;
+    line-height: 100px;
+  }
+  #nav li:hover {
+    color: #298DFF;
+    transform: scale(1.1);
+    transition-duration: 500ms;
+    cursor: pointer;
+  }
+  #bottomnav li {
+    display: inline-block;
+    font-size: 24px;
+    margin-right: 40px;
+    line-height: 100px;
+  }
+  #bottomnav li:hover {
+    color: #298DFF;
+    transform: scale(1.1);
+    transition-duration: 500ms;
+    cursor: pointer;
+  }
+.heroimg {
+    height: 600px;
+    padding: 25px;
+}
+.unica {
+    width: 378px;
+    height: 373px;
+}
+.content {
+    width: 378px;
+    margin: 0 auto;
+}
+#footer {
+
+    }
